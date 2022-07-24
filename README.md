@@ -1,6 +1,6 @@
 # 이준형 (Lee Jun Hyeong)
 ## 👦 프로필
-- 1997.06.22  
+* 1997.06.22  
 - 관교중학교 졸업(2013.02)
   > 태권도부 겨루기 선수 주장
 - 인천정보과학고등학교 졸업(2016.02)
@@ -26,7 +26,10 @@
 
 
 ## 🚀 출시 어플
-
+- [킬링메시지: 나만의 명언, 모두의 동기부여](https://github.com/lijunhyeong/Killing-Message)  
+<img src="https://user-images.githubusercontent.com/72978589/166099504-6e02dfb5-7909-4a84-a3e1-1efdd3125ca5.png" width="45%" height="25%">   
+- [짠! Cheers! - 원격 모임, 혼술](https://github.com/lijunhyeong/Cheers)    
+<img src="https://user-images.githubusercontent.com/72978589/166099039-83589fc9-0b49-44b9-85e0-0e5d3b49a59d.png" width="45%" height="25%" >  
 
 ## 📚 기술  
 - Main(중급)  
@@ -40,7 +43,7 @@
   > C, C++  
 
 - Algorithms
-  ### 🥈 for Python  
+#### 🥈 for Python  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lijunhyeong)](https://solved.ac/lijunhyeong/)  
-  ### 🥈 for Kotlin  
+#### 🥈 for Kotlin  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daba44)](https://solved.ac/daba44/)  
