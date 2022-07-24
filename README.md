@@ -43,7 +43,7 @@
   > C, C++  
 
 - Algorithms
-#### 🥈 for Python  
+  > 🥈 for Python  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lijunhyeong)](https://solved.ac/lijunhyeong/)  
 #### 🥈 for Kotlin  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daba44)](https://solved.ac/daba44/)  
