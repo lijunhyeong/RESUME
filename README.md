@@ -2,7 +2,7 @@
 ## 👦 프로필
 - 1997.06.22  
 - 관교중학교 졸업(2013.02)
-  > 태권도부 겨루기 선수 주장
+  > ###태권도부 겨루기 선수 주장
 - 인천정보과학고등학교 졸업(2016.02)
   > 전교학생회장
 - 단국대학교 소프트웨어학과(2023.02 졸업예정)  
@@ -28,18 +28,19 @@
 ## 🚀 출시 어플
 
 
-## 📚 기술
-- for Python  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lijunhyeong)](https://solved.ac/lijunhyeong/)  
-- for Kotlin  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daba44)](https://solved.ac/daba44/)
-
+## 📚 기술  
 - Main(중급)  
-> Android  
-> Koltin  
-> Java  
-> Python  
+  > Android  
+  > Koltin  
+  > Java  
+  > Python  
 - Sub(초급)  
-> React Native  
-> MySQL  
-> C, C++  
+  > React Native  
+  > MySQL  
+  > C, C++  
+
+- Algorithms
+  ### 🥈 for Python  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lijunhyeong)](https://solved.ac/lijunhyeong/)  
+  ### 🥈 for Kotlin  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daba44)](https://solved.ac/daba44/)
