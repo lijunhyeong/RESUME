@@ -39,7 +39,7 @@
   * Android  
     * [킬링메시지: 나만의 명언, 모두의 동기부여](https://github.com/lijunhyeong/Killing-Message)  
     * [짠! Cheers! - 원격 모임, 혼술](https://github.com/lijunhyeong/Cheers)   
-    * [대학생 재능 교환 멘토, 멘티, 메이트 일대일 매칭 서비스](https://github.com/lijunhyeong/Daekiri)
+    * [대끼리: 대학생 재능 교환 멘토, 멘티, 메이트 일대일 매칭 서비스](https://github.com/lijunhyeong/Daekiri)
   * Koltin  
   * Java  
   * Python  
