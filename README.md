@@ -35,9 +35,9 @@
 <img src="https://user-images.githubusercontent.com/72978589/166099039-83589fc9-0b49-44b9-85e0-0e5d3b49a59d.png" width="40%" height="20%">  
 
 ## 📚 기술  
-- Main(중급)  
+* Main(중급)  
   > Android  
-   -- [킬링메시지: 나만의 명언, 모두의 동기부여](https://github.com/lijunhyeong/Killing-Message)  \
+   ** [킬링메시지: 나만의 명언, 모두의 동기부여](https://github.com/lijunhyeong/Killing-Message)  \
    -- [짠! Cheers! - 원격 모임, 혼술](https://github.com/lijunhyeong/Cheers)   
   > Koltin  
   > Java  
