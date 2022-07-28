@@ -36,16 +36,19 @@
 
 ## 📚 기술  
 * Main(중급)  
-  > Android  
-   ** [킬링메시지: 나만의 명언, 모두의 동기부여](https://github.com/lijunhyeong/Killing-Message)  \
-   -- [짠! Cheers! - 원격 모임, 혼술](https://github.com/lijunhyeong/Cheers)   
-  > Koltin  
-  > Java  
-  > Python  
+  * Android  
+    * [킬링메시지: 나만의 명언, 모두의 동기부여](https://github.com/lijunhyeong/Killing-Message)  
+    * [짠! Cheers! - 원격 모임, 혼술](https://github.com/lijunhyeong/Cheers)   
+    * [대학생 재능 교환 멘토, 멘티, 메이트 일대일 매칭 서비스](https://github.com/lijunhyeong/Daekiri)
+  * Koltin  
+  * Java  
+  * Python  
+    * [비트코인 비트코인 자동화 매수/매도 프로그램](https://github.com/lijunhyeong/BitCoinAutoTrade)
 - Sub(초급)  
-  > React Native  
-  > MySQL  
-  > C, C++  
+  * React Native  
+    * [CRUD TodoList](https://github.com/lijunhyeong/TodoList)
+  * MySQL  
+  * C, C++  
 
 - Algorithms
   > 🥈 for Python  
