@@ -44,7 +44,6 @@
     * [짠! Cheers! - 원격 모임, 혼술](https://github.com/lijunhyeong/Cheers)   
     * [대끼리: 대학생 재능 교환 멘토, 멘티, 메이트 일대일 매칭 서비스](https://github.com/lijunhyeong/Daekiri)
   * Koltin  
-  * Java  
   * Python  
     * [비트코인 비트코인 자동화 매수/매도 프로그램](https://github.com/lijunhyeong/BitCoinAutoTrade)
 - Sub(초급)  
@@ -54,6 +53,7 @@
     * 국토교통부 도로통합관리시스템 '도로안전지킴이'앱 유지보수 및 기능개선
   * MySQL  
   * C, C++  
+  * Java 
 
 - Algorithms
   > 🥈 for Python  
