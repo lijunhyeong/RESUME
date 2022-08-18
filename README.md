@@ -40,7 +40,7 @@
 * Main(중급)  
   * Android  
     * [킬링메시지: 나만의 명언, 모두의 동기부여](https://github.com/lijunhyeong/Killing-Message)  
-      * 사용자에게 받은 명언 백엔드에 명언 카테고리 별로 저장(업무용 앱 개발)
+      * 백엔드에 사용자에게 받은 명언 카테고리 별로 추가 저장하기(업무용 앱 개발)
     * [짠! Cheers! - 원격 모임, 혼술](https://github.com/lijunhyeong/Cheers)   
     * [대끼리: 대학생 재능 교환 멘토, 멘티, 메이트 일대일 매칭 서비스](https://github.com/lijunhyeong/Daekiri)
   * Koltin  
