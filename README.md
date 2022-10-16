@@ -48,7 +48,7 @@
   * Koltin  
     * [개념 Study](https://blog.naver.com/lijunhyeong/222851597404)
   * Python  
-    * [비트코인 비트코인 자동화 매수/매도 프로그램](https://github.com/lijunhyeong/BitCoinAutoTrade)
+    * [비트코인 자동화 매수/매도 프로그램](https://github.com/lijunhyeong/BitCoinAutoTrade)
 - Sub(초급)  
   * React Native  
     * [개념 Study](https://blog.naver.com/lijunhyeong/222531412609)  
