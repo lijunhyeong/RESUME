@@ -45,6 +45,7 @@
       * 사용자에게 받은 명언 카테고리 별로 추가하기(업무용 앱 개발)
     * [짠! Cheers! - 원격 모임, 혼술](https://github.com/lijunhyeong/Cheers)   
     * [대끼리: 대학생 재능 교환 멘토, 멘티, 메이트 일대일 매칭 서비스](https://github.com/lijunhyeong/Daekiri)
+    * [미리내: 크라우드 펀딩 형식, 제주 스팟에 고유이름 지어주기 서비스](https://github.com/TeamMirinae/Mirinae_Android)
   * Koltin  
     * [개념 Study](https://blog.naver.com/lijunhyeong/222851597404)
   * Python  
