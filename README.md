@@ -17,13 +17,13 @@
 
 ## 🏆 수상
 - [ITP인천테크노파크] 2020 DoDream 창업 아이디어 경진대회(2020.11.25)  
-  > [장려상](https://github.com/lijunhyeong/Killing-Message)  
+  > [장려상](https://github.com/lijunhyeong/Killing-Message), 안드로이드 앱 개발 맡음  
 - 홍커톤 안드로이드 앱개발 대회(2021.02)  
-  > [4등](https://github.com/lijunhyeong/Cheers)  
+  > [4등](https://github.com/lijunhyeong/Cheers), 안드로이드 앱 개발 맡음  
 - [2021 원티드] 채용 연계형 대규모 해커톤 "해, 커리어"(2021.11.21)  
-  > [브론즈 뱃지](https://github.com/lijunhyeong/Daekiri)  
+  > [브론즈 뱃지](https://github.com/lijunhyeong/Daekiri), 안드로이드 앱 개발 맡음  
 - [kakao X goorm] 9oormthon 구름톤 (2022.10.14)
-  > [대상](https://github.com/TeamMirinae/Mirinae_Android)  
+  > [대상](https://github.com/TeamMirinae/Mirinae_Android), 안드로이드 앱 개발 맡음  
 
 ## 📑 자격증
 - [한국산업인력공단] 정보처리기사(2021.08.20)
