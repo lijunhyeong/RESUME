@@ -58,7 +58,7 @@
   * MySQL  
   * C, C++  
   * Java 
-
+- [공부 기록](https://github.com/lijunhyeong/Study)  
 - Algorithms
   > 🥇 for Kotlin  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daba44)](https://solved.ac/daba44/)  
